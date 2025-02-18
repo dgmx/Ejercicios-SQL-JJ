@@ -1,5 +1,4 @@
-# Práctica SQL - Juan Martín Franco
-
+# Práctica SQL - JJ
 Repositorio dedicado a la resolución de ejercicios SQL utilizando el SGBD MySQL, el motor de BD InnoDB y HeidiSQL.
 
 [![MySQL](/images//sql.png)](https://www.mysql.com/)
